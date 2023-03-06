@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 
 
-
+//what is programming ? and what is coding ?
 
 
 const App = () => {
